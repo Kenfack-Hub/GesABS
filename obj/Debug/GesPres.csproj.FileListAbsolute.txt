@@ -1,0 +1,12 @@
+C:\Users\bryan\source\repos\GesPres\bin\Debug\GesPres.exe.config
+C:\Users\bryan\source\repos\GesPres\bin\Debug\GesPres.exe
+C:\Users\bryan\source\repos\GesPres\bin\Debug\GesPres.pdb
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.Properties.Resources.resources
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.exe
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.pdb
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.Menu.resources
+C:\Users\bryan\source\repos\GesPres\obj\Debug\GesPres.parametrage.frmParametrage.resources
